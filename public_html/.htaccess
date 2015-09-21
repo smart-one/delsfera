@@ -1,0 +1,16 @@
+AddDefaultCharset Windows-1251
+DirectoryIndex index.php
+Options -Indexes
+
+ErrorDocument 404 /errors/404.php
+ErrorDocument 403 /errors/403.php
+
+
+<FilesMatch ".htaccess$">
+	Order Deny,Allow
+	Deny from all
+</FilesMatch>
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([a-zA-Z0-9\/]+)$		/index.php?page=$1

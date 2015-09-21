@@ -1,0 +1,25 @@
+/* CSS Document */
+.contentBlock_02
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#004b57;
+}
+.contentBlock_02 ul
+{
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+.contentBlock_02 a
+{
+		color:#004b58;
+}
+.contentBlock_02 a:hover
+{
+		color:#004b60;
+		text-decoration:none;
+}
+#ssilki { position:absolute;
+ margin-left: 100px;
+ }

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /service/04
+Disallow: /service/16 
+Disallow: /service/19
+Disallow: /service/17
+Disallow: /service/15
+Disallow: /service/service/service
+Disallow: /service/service

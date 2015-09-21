@@ -1,0 +1,95 @@
+/* CSS Document */
+
+body
+{
+	margin:0px;
+	padding:0px;
+	
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	
+	background:#8db1b1;
+	text-align:center;
+}
+img
+{
+	border:0px;
+}
+td
+{
+	padding:0px;
+	margin:0px;
+	vertical-align:top;
+	text-align:center;
+}
+
+.bodyBlock_01
+{
+	width:1014px;
+	max-width:1014px;
+	min-width:1014px;
+	
+	height:100%;
+	background:url(/content/images/slice_04.jpg) repeat-y center;
+}
+.bodyBlock_02
+{
+	width:1014px;
+	height:211px;
+	background:url(/content/images/slice_01.jpg) no-repeat center;
+	text-align:left;
+
+}
+.contentBlock_01
+{
+	width:1014px;
+	min-height:477px;
+	background:url(/content/images/slice_03_02.JPG) no-repeat top center;
+	padding-top:0px;
+
+}
+.contentBlock_02
+{
+	margin-left:220px;
+	margin-right:150px;
+	margin-bottom:20px;
+
+	border:0px solid red;
+	padding-top:1px;
+	text-align:left;
+}
+
+.navigationBlockContainer
+{
+	width:1014px;
+	height:165px;
+	border:0px solid red;
+}
+.navigationBlock
+{
+	float:right;
+}
+
+
+/*		phone-box		*/
+.phone-box
+{
+	position:absolute;
+	background:url(/content/images/phones.jpg) no-repeat 0px 0px;
+	width:265px;
+	height:59px;
+	margin:170px 0px 0px 720px;
+}
+.blink_text-box
+{
+	margin-top:65px;
+	font-family: MetaBoldLFC, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:24px;
+	text-align:center;
+	color:#004b57;
+}
+.blink_text_red-box
+{
+	color:red;
+}

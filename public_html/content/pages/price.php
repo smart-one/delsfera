@@ -224,7 +224,7 @@
 	text-decoration:none;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:204;
-	mso-number-format:"\#\,\#\#0\0022р\.\0022";
+	mso-number-format:"\#\,\#\#0\0022СЂ\.\0022";
 	text-align:left;
 	vertical-align:middle;
 	border-top:.5pt solid windowtext;
@@ -399,7 +399,7 @@
 -->
 </style>
 
-<h1>Цены</h1>
+<h1>Р¦РµРЅС‹</h1>
 
 <div  x:publishsource="Excel">
 
@@ -409,182 +409,182 @@
  <col width=64 style='width:48pt'>
  <col width=96 style='mso-width-source:userset;mso-width-alt:3510;width:72pt'>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
-  <td height=21 class=xl6912061 width=562 style='height:15.75pt;width:302pt'>Вид
-  услуги</td>
-  <td class=xl7012061 width=64 style='border-left:none;width:48pt'>Дней</td>
-  <td class=xl7112061 width=96 style='border-left:none;width:72pt'>Сумма*</td>
+  <td height=21 class=xl6912061 width=562 style='height:15.75pt;width:302pt'>Р’РёРґ
+  СѓСЃР»СѓРіРё</td>
+  <td class=xl7012061 width=64 style='border-left:none;width:48pt'>Р”РЅРµР№</td>
+  <td class=xl7112061 width=96 style='border-left:none;width:72pt'>РЎСѓРјРјР°*</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td colspan=3 height=21 class=xl7312061 width=562 style='border-right:1.0pt solid black;
-  height:15.75pt;width:422pt'>ГОТОВЫЕ ФИРМЫ</td>
+  height:15.75pt;width:422pt'>Р“РћРўРћР’Р«Р• Р¤РР РњР«</td>
  </tr>
  <tr height=25 style='mso-height-source:userset;height:18.75pt'>
   <td height=25 class=xl6512061 width=562 style='height:18.75pt;border-top:
-  none;width:302pt'>Фирмы без открытого счета</td>
+  none;width:302pt'>Р¤РёСЂРјС‹ Р±РµР· РѕС‚РєСЂС‹С‚РѕРіРѕ СЃС‡РµС‚Р°</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'> 1 день</td>
+  width:48pt'> 1 РґРµРЅСЊ</td>
   <td class=xl6612061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> от 25000р.</td>
+  width:72pt'> РѕС‚ 25000СЂ.</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl6512061 width=562 style='height:20.25pt;border-top:
-  none;width:302pt'>Фирмы с открытым счетом и банк-клиентом</td>
+  none;width:302pt'>Р¤РёСЂРјС‹ СЃ РѕС‚РєСЂС‹С‚С‹Рј СЃС‡РµС‚РѕРј Рё Р±Р°РЅРє-РєР»РёРµРЅС‚РѕРј</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>1 день</td>
+  width:48pt'>1 РґРµРЅСЊ</td>
   <td class=xl6612061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> от 30000р.</td>
+  width:72pt'> РѕС‚ 30000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Фирмы на заказ</td>
+  none;width:302pt'>Р¤РёСЂРјС‹ РЅР° Р·Р°РєР°Р·</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>7 дней</td>
+  width:48pt'>7 РґРЅРµР№</td>
   <td class=xl6612061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> от 25000р.</td>
+  width:72pt'> РѕС‚ 25000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td colspan=3 height=21 class=xl7312061 width=562 style='border-right:1.0pt solid black;
-  height:15.75pt;width:422pt'>ЛИКВИДАЦИЯ</td>
+  height:15.75pt;width:422pt'>Р›РРљР’РР”РђР¦РРЇ</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Ликвидация путем продажи доли</td>
+  none;width:302pt'>Р›РёРєРІРёРґР°С†РёСЏ РїСѓС‚РµРј РїСЂРѕРґР°Р¶Рё РґРѕР»Рё</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>от 3 дней</td>
+  width:48pt'>РѕС‚ 3 РґРЅРµР№</td>
   <td class=xl6612061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> от 15000р.</td>
+  width:72pt'> РѕС‚ 15000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
    <td colspan=3 height=21 class=xl7712061 width=562 style='border-right:1.0pt solid black;
-  height:15.75pt;width:422pt'>РЕГИСТРАЦИЯ ФИРМ И ПРЕДПРИНИМАТЕЛЕЙ</td>
+  height:15.75pt;width:422pt'>Р Р•Р“РРЎРўР РђР¦РРЇ Р¤РР Рњ Р РџР Р•Р”РџР РРќРРњРђРўР•Р›Р•Р™</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Регистрация ООО</td>
+  none;width:302pt'>Р РµРіРёСЃС‚СЂР°С†РёСЏ РћРћРћ</td>
   <td class=xl6412061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>7 дней</td>
+  width:48pt'>7 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt' x:num="9000">15 000р.</td>
+  width:72pt' x:num="9000">15 000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Регистрация<span style='mso-spacerun:yes'>  </span>ЗАО, ОАО</td>
+  none;width:302pt'>Р РµРіРёСЃС‚СЂР°С†РёСЏ<span style='mso-spacerun:yes'>В  </span>Р—РђРћ, РћРђРћ</td>
   <td class=xl6412061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>10 дней</td>
+  width:48pt'>10 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 20000р.</td>
+  width:72pt'> 20000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Регистрация индивидуальных предпринимателей</td>
+  none;width:302pt'>Р РµРіРёСЃС‚СЂР°С†РёСЏ РёРЅРґРёРІРёРґСѓР°Р»СЊРЅС‹С… РїСЂРµРґРїСЂРёРЅРёРјР°С‚РµР»РµР№</td>
   <td class=xl6412061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>7 дней</td>
+  width:48pt'>7 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt' x:num="4000">6 000р.</td>
+  width:72pt' x:num="4000">6 000СЂ.</td>
  </tr>
  <tr height=25 style='mso-height-source:userset;height:18.75pt'>
   <td colspan=3 height=25 class=xl7312061 width=562 style='border-right:1.0pt solid black;
-  height:18.75pt;width:422pt'>ГОТОВЫЕ ФИРМЫ С ДОПУСКОМ СРО</td>
+  height:18.75pt;width:422pt'>Р“РћРўРћР’Р«Р• Р¤РР РњР« РЎ Р”РћРџРЈРЎРљРћРњ РЎР Рћ</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Готовая фирма с допуском СРО(строителей)</td>
+  none;width:302pt'>Р“РѕС‚РѕРІР°СЏ С„РёСЂРјР° СЃ РґРѕРїСѓСЃРєРѕРј РЎР Рћ(СЃС‚СЂРѕРёС‚РµР»РµР№)</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>от 1 дня</td>
+  width:48pt'>РѕС‚ 1 РґРЅСЏ</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 400000р</td>
+  width:72pt'> 400000СЂ</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Готовая фирма с допуском СРО(проектировщиков)</td>
+  none;width:302pt'>Р“РѕС‚РѕРІР°СЏ С„РёСЂРјР° СЃ РґРѕРїСѓСЃРєРѕРј РЎР Рћ(РїСЂРѕРµРєС‚РёСЂРѕРІС‰РёРєРѕРІ)</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>от 1 дня</td>
+  width:48pt'>РѕС‚ 1 РґРЅСЏ</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 230000р.</td>
+  width:72pt'> 230000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Готовая фирма с допуском СРО(изыскателей)</td>
+  none;width:302pt'>Р“РѕС‚РѕРІР°СЏ С„РёСЂРјР° СЃ РґРѕРїСѓСЃРєРѕРј РЎР Рћ(РёР·С‹СЃРєР°С‚РµР»РµР№)</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>от 1 дня</td>
+  width:48pt'>РѕС‚ 1 РґРЅСЏ</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 230000р.</td>
+  width:72pt'> 230000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td colspan=3 height=21 class=xl7312061 width=562 style='border-right:1.0pt solid black;
-  height:15.75pt;width:422pt'>ЮРИДИЧЕСКИЕ АДРЕСА</td>
+  height:15.75pt;width:422pt'>Р®Р РР”РР§Р•РЎРљРР• РђР”Р Р•РЎРђ</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Предоставление юридического адреса</td>
+  none;width:302pt'>РџСЂРµРґРѕСЃС‚Р°РІР»РµРЅРёРµ СЋСЂРёРґРёС‡РµСЃРєРѕРіРѕ Р°РґСЂРµСЃР°</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>1 день</td>
+  width:48pt'>1 РґРµРЅСЊ</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 2500р.</td>
+  width:72pt'> 2500СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Предоставление юридического адреса с почтовым обслуживанием</td>
+  none;width:302pt'>РџСЂРµРґРѕСЃС‚Р°РІР»РµРЅРёРµ СЋСЂРёРґРёС‡РµСЃРєРѕРіРѕ Р°РґСЂРµСЃР° СЃ РїРѕС‡С‚РѕРІС‹Рј РѕР±СЃР»СѓР¶РёРІР°РЅРёРµРј</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>1 день</td>
+  width:48pt'>1 РґРµРЅСЊ</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 4500р.</td>
+  width:72pt'> 4500СЂ.</td>
  </tr>
  <tr height=35 style='mso-height-source:userset;height:26.25pt'>
   <td height=35 class=xl6512061 width=562 style='height:26.25pt;border-top:
-  none;width:302pt'>Предоставление юридического адреса с секретарским
-  обслуживанием</td>
+  none;width:302pt'>РџСЂРµРґРѕСЃС‚Р°РІР»РµРЅРёРµ СЋСЂРёРґРёС‡РµСЃРєРѕРіРѕ Р°РґСЂРµСЃР° СЃ СЃРµРєСЂРµС‚Р°СЂСЃРєРёРј
+  РѕР±СЃР»СѓР¶РёРІР°РЅРёРµРј</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>1 день</td>
+  width:48pt'>1 РґРµРЅСЊ</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 7000р.</td>
+  width:72pt'> 7000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td colspan=3 height=21 class=xl7312061 width=562 style='border-right:1.0pt solid black;
-  height:15.75pt;width:422pt'>ВНЕСЕНИЕ ИЗМЕНЕНИЙ и ВЫПИСКИ</td>
+  height:15.75pt;width:422pt'>Р’РќР•РЎР•РќРР• РР—РњР•РќР•РќРР™ Рё Р’Р«РџРРЎРљР</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Изменения вносимые<span style='mso-spacerun:yes'>  </span>в
-  Устав(смена адреса, названия, уставный капитал и др.)</td>
+  none;width:302pt'>РР·РјРµРЅРµРЅРёСЏ РІРЅРѕСЃРёРјС‹Рµ<span style='mso-spacerun:yes'>В  </span>РІ
+  РЈСЃС‚Р°РІ(СЃРјРµРЅР° Р°РґСЂРµСЃР°, РЅР°Р·РІР°РЅРёСЏ, СѓСЃС‚Р°РІРЅС‹Р№ РєР°РїРёС‚Р°Р» Рё РґСЂ.)</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>7 дней</td>
+  width:48pt'>7 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt' x:num="5000">5 000р.</td>
+  width:72pt' x:num="5000">5 000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Измененния не вносимые в Устав(смена директора, ОКВЭД,
-  смена паспортных данных и др.)</td>
+  none;width:302pt'>РР·РјРµРЅРµРЅРЅРёСЏ РЅРµ РІРЅРѕСЃРёРјС‹Рµ РІ РЈСЃС‚Р°РІ(СЃРјРµРЅР° РґРёСЂРµРєС‚РѕСЂР°, РћРљР’Р­Р”,
+  СЃРјРµРЅР° РїР°СЃРїРѕСЂС‚РЅС‹С… РґР°РЅРЅС‹С… Рё РґСЂ.)</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>7 дней</td>
+  width:48pt'>7 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt' x:num="3000">4 000р.</td>
+  width:72pt' x:num="3000">4 000СЂ.</td>
  </tr>
  <tr height=34 style='mso-height-source:userset;height:25.5pt'>
   <td height=34 class=xl6512061 width=562 style='height:25.5pt;border-top:none;
-  width:302pt'>Внесение изменений, связанные с продажей долей в уставном
-  капитале</td>
+  width:302pt'>Р’РЅРµСЃРµРЅРёРµ РёР·РјРµРЅРµРЅРёР№, СЃРІСЏР·Р°РЅРЅС‹Рµ СЃ РїСЂРѕРґР°Р¶РµР№ РґРѕР»РµР№ РІ СѓСЃС‚Р°РІРЅРѕРј
+  РєР°РїРёС‚Р°Р»Рµ</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>10 дней</td>
+  width:48pt'>10 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt'> 5000р.</td>
+  width:72pt'> 5000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6512061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Регорганизация</td>
+  none;width:302pt'>Р РµРіРѕСЂРіР°РЅРёР·Р°С†РёСЏ</td>
   <td class=xl6312061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>от 45 дней</td>
+  width:48pt'>РѕС‚ 45 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt' x:num="15000">15 000р.</td>
+  width:72pt' x:num="15000">15 000СЂ.</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td height=21 class=xl6712061 width=562 style='height:15.75pt;border-top:
-  none;width:302pt'>Получение выписки или дубликатов из ЕГРЮЛ</td>
+  none;width:302pt'>РџРѕР»СѓС‡РµРЅРёРµ РІС‹РїРёСЃРєРё РёР»Рё РґСѓР±Р»РёРєР°С‚РѕРІ РёР· Р•Р“Р Р®Р›</td>
   <td class=xl6812061 width=64 style='border-top:none;border-left:none;
-  width:48pt'>1-5 дней</td>
+  width:48pt'>1-5 РґРЅРµР№</td>
   <td class=xl7212061 width=96 style='border-top:none;border-left:none;
-  width:72pt' x:num="1500">1 500р.</td>
+  width:72pt' x:num="1500">1 500СЂ.</td>
  </tr>
  <tr height=21 style='height:15.75pt'>
   <td height=21 class=xl1512061 style='height:15.75pt'></td>
@@ -593,7 +593,7 @@
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
   <td colspan=3 height=21 class=xl7612061 width=562 style='height:15.75pt;
-  width:422pt'>* - ЦЕНА УСЛУГИ ВКЛЮЧАЕТ ВСЕ ПОШЛИНЫ И НОТАРИАЛЬНЫЕ УСЛУГИ</td>
+  width:422pt'>* - Р¦Р•РќРђ РЈРЎР›РЈР“Р Р’РљР›Р®Р§РђР•Рў Р’РЎР• РџРћРЁР›РРќР« Р РќРћРўРђР РРђР›Р¬РќР«Р• РЈРЎР›РЈР“Р</td>
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>

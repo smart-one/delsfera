@@ -1,5 +1,5 @@
 <?
-//Êîíôèãóðàöèîííûé ôàéë
+//ÐšÐ¾Ð½Ñ„Ð¸Ð³ÑƒÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð»
 setlocale(LC_ALL, "ru_RU.CP1251");
 ini_set("display_errors",1);
 ini_set("display_startup_errors",1);

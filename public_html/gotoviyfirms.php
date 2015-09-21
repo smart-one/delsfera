@@ -44,9 +44,8 @@
     	<div class="bodyBlock_02">	        
 
         	<div class="phone-box">
-
-            	<div class="blink_text-box">ДОСТАВКА ДОКУМЕНТОВ БЕСПЛАТНО!</div>
-
+                <div class="header-phone"><span class="small">тел.:</span><?= CONTACT_PHONE ?></div>
+              <div class="blink_text-box">ДОСТАВКА ДОКУМЕНТОВ БЕСПЛАТНО!</div>
             </div>
 
             
@@ -159,7 +158,7 @@
 
 
 
-<a href="/gotoviyfirms.html">Купить готовую фирму</a>
+<a href="/gotoviyfirms.php">Купить готовую фирму</a>
 
   
 

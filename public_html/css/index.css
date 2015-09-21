@@ -75,14 +75,28 @@ td
 .phone-box
 {
 	position:absolute;
-	background:url(/content/images/phones.jpg) no-repeat 0px 0px;
 	width:265px;
 	height:59px;
 	margin:170px 0px 0px 720px;
 }
+
+.phone-box .header-phone
+{
+	text-align: right;
+	color: #8DB0B2;
+	font-weight: bold;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.phone-box .header-phone .small
+{
+	font-size: 80%;
+}
+
 .blink_text-box
 {
-	margin-top:65px;
+	margin-top:36px;
 	font-family: MetaBoldLFC, Arial, Helvetica, sans-serif;
 	font-weight:bold;
 	font-size:24px;

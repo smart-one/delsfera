@@ -4,7 +4,7 @@
 
 <head>
 
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <link rel="stylesheet" type="text/css" href="/css/index.css">
 
@@ -43,9 +43,8 @@
     	<div class="bodyBlock_02">	        
 
         	<div class="phone-box">
-
-            	<div class="blink_text-box">ДОСТАВКА ДОКУМЕНТОВ БЕСПЛАТНО!</div>
-
+            	<div class="header-phone"><span class="small">тел.:</span><?= CONTACT_PHONE ?></div>
+                <div class="blink_text-box">ДОСТАВКА ДОКУМЕНТОВ БЕСПЛАТНО!</div>
             </div>
 
             
@@ -118,7 +117,7 @@
 
 Получить консультацию у наших экспертов можно по номеру:<br>
 
- <b>(812) 922-94-24</b>
+ <b><?= CONTACT_PHONE ?></b>
 
 </p>
 
